@@ -9,6 +9,6 @@ Software engineer that loves taking ideation to implementation and leveraging th
 [![Website Badge](https://img.shields.io/badge/-dpantoja.com-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://dpantoja.com/)](https://dpantoja.com/)
 [![Gmail Badge](https://img.shields.io/badge/-david27pantoja@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:david27pantoja@gmail.com)](mailto:david27pantoja@gmail.com)
 ## ⚡ Domains:
-- Blockchain
 - Web Development
-- Computer Vision
+- NLP
+- MLops
